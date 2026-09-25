@@ -1,5 +1,6 @@
 # SpendIQ — Personal Expense Intelligence
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-spendiq--expense--dashboard.vercel.app-10b981?style=flat&logo=vercel)](https://spendiq-expense-dashboard.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2-blue?style=flat&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
@@ -7,6 +8,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 
 > A sleek, privacy-first personal finance and expense analytics dashboard built with Next.js, React 19, TypeScript, Tailwind CSS, and Recharts. Gain deep visibility into where your money goes with real-time statistics, monthly budgets, category breakdowns, velocity charts, and client-side data persistence.
+
+**🌐 Live Demo:** [https://spendiq-expense-dashboard.vercel.app](https://spendiq-expense-dashboard.vercel.app)  
+**📂 GitHub Repository:** [https://github.com/Amit0730/spendiq-expense-dashboard](https://github.com/Amit0730/spendiq-expense-dashboard)
 
 ---
 
